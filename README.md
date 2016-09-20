@@ -1,3 +1,3 @@
 # Assembly
 
-This repository contains assembly applications designed for the Intel 8086 and HCS12 microprocessors.
+This repository contains assembly applications designed for Intel 8086 and HCS12 microprocessors.
